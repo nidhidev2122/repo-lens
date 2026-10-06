@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+pydantic
+gitpython
+streamlit>=1.37
+requests
