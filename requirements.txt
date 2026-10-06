@@ -4,3 +4,4 @@ pydantic
 gitpython
 streamlit>=1.37
 requests
+huggingface_hub
